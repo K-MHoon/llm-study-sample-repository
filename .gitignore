@@ -1,0 +1,4 @@
+ch*_env/
+py_env/
+chroma*/
+faiss*/
