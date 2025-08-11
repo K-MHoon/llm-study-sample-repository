@@ -2,3 +2,4 @@ ch*_env/
 py_env/
 chroma*/
 faiss*/
+__pycache__/
