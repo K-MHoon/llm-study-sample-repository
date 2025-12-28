@@ -1,5 +1,15 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
 ch*_env/
+ch*_venv/
 py_env/
+
+# Other
 chroma*/
 faiss*/
 __pycache__/
